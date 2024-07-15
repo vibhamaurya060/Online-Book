@@ -6368,3 +6368,1487 @@
   label: 'right meow!',
   timestamp: '2024-07-15T12:06:16.022Z'
 }
+{
+  level: 'info',
+  message: 'info time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:21.173Z'
+}
+{
+  level: 'error',
+  message: 'error time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:21.176Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIOL_',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIOL_',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIOL_' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 5
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIOL_ 404 5ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:31.051Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIQ3D',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIQ3D',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIQ3D' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIQ3D 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:37.012Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIRW-',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIRW-',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIRW-' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIRW- 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:43.015Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIS-p',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIS-p',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIS-p' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIS-p 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:49.018Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIUSa',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIUSa',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIUSa' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIUSa 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:55.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIVwO',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIVwO',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIVwO' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIVwO 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:01.021Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIXN_',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIXN_',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIXN_' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIXN_ 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:07.016Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIYru',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIYru',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIYru' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIYru 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:13.022Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIaJU',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIaJU',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIaJU' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIaJU 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:19.153Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIbnC',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIbnC',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIbnC' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIbnC 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:25.010Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIdF9',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIdF9',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIdF9' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIdF9 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:31.030Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIeim',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIeim',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIeim' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIeim 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:37.016Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIgAR',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIgAR',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIgAR' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIgAR 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:43.009Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIhew',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIhew',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIhew' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIhew 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:49.055Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIj6N',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIj6N',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIj6N' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 3
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIj6N 404 3ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:07:55.039Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIkZt',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIkZt',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIkZt' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIkZt 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:01.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIm1e',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIm1e',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIm1e' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIm1e 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:07.020Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sInVO',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sInVO',
+      query: { EIO: '4', transport: 'polling', t: 'P2sInVO' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sInVO 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:13.021Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIoy-',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIoy-',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIoy-' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIoy- 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:19.017Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIqQl',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIqQl',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIqQl' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIqQl 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:25.011Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIrv8',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIrv8',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIrv8' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIrv8 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:31.052Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sItMI',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sItMI',
+      query: { EIO: '4', transport: 'polling', t: 'P2sItMI' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sItMI 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:37.013Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIuq3',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIuq3',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIuq3' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIuq3 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:43.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIwHt',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIwHt',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIwHt' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIwHt 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:49.020Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIxlY',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIxlY',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIxlY' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIxlY 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:08:55.018Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sIzDX',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sIzDX',
+      query: { EIO: '4', transport: 'polling', t: 'P2sIzDX' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sIzDX 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:01.037Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sI-g-',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sI-g-',
+      query: { EIO: '4', transport: 'polling', t: 'P2sI-g-' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sI-g- 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:07.024Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ09W',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ09W',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ09W' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ09W 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:13.062Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ1cX',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ1cX',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ1cX' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 2
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ1cX 404 2ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:19.023Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ34L',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ34L',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ34L' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ34L 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:25.020Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ4Y6',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ4Y6',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ4Y6' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ4Y6 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:31.018Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ5_r',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ5_r',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ5_r' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ5_r 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:37.019Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ7TX',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ7TX',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ7TX' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ7TX 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:43.014Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJ8xR',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJ8xR',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJ8xR' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJ8xR 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:49.052Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJAP1',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJAP1',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJAP1' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJAP1 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:09:55.018Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJBsw',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJBsw',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJBsw' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJBsw 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:01.025Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJDKf',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJDKf',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJDKf' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJDKf 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:07.022Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJEoK',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJEoK',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJEoK' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJEoK 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:13.047Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJGGB',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJGGB',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJGGB' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJGGB 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:19.030Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJHjq',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJHjq',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJHjq' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 1
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJHjq 404 1ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:25.016Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJJBg',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJJBg',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJJBg' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJJBg 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:31.023Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJKfD',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJKfD',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJKfD' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJKfD 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:37.010Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJM71',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJM71',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJM71' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJM71 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:43.013Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJNat',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJNat',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJNat' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJNat 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:49.018Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJP2Z',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJP2Z',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJP2Z' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJP2Z 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:10:55.022Z'
+}
+{
+  meta: {
+    req: {
+      url: '/socket.io/?EIO=4&transport=polling&t=P2sJQWG',
+      headers: {
+        host: 'localhost:8080',
+        connection: 'keep-alive',
+        'sec-ch-ua': '"Not/A)Brand";v="8", "Chromium";v="126", "Google Chrome";v="126"',
+        accept: '*/*',
+        'sec-ch-ua-mobile': '?0',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'sec-ch-ua-platform': '"Windows"',
+        'sec-fetch-site': 'same-origin',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        referer: 'http://localhost:8080/io',
+        'accept-encoding': 'gzip, deflate, br, zstd',
+        'accept-language': 'en-US,en;q=0.9'
+      },
+      method: 'GET',
+      httpVersion: '1.1',
+      originalUrl: '/socket.io/?EIO=4&transport=polling&t=P2sJQWG',
+      query: { EIO: '4', transport: 'polling', t: 'P2sJQWG' }
+    },
+    res: { statusCode: 404 },
+    responseTime: 0
+  },
+  level: 'info',
+  message: 'GET /socket.io/?EIO=4&transport=polling&t=P2sJQWG 404 0ms',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:11:01.012Z'
+}

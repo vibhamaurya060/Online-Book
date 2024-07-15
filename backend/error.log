@@ -172,3 +172,9 @@
   label: 'right meow!',
   timestamp: '2024-07-15T12:03:41.273Z'
 }
+{
+  level: 'error',
+  message: 'error time is the testing at?',
+  label: 'right meow!',
+  timestamp: '2024-07-15T12:06:21.176Z'
+}
