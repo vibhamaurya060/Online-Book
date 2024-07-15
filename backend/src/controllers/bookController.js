@@ -1,5 +1,5 @@
 import Book from '../models/nosql/book.js';
-
+import {io} from '../server.js'
 const getBooks = async (req, res) => {
     try {
         const books = await Book.find({});
@@ -27,6 +27,7 @@ const createBook = async (req, res) => {
     try {
         const newBook = new Book({ title, author, description,price, isbn });
         await newBook.save();
+        io.emit('newBook', newBook)
         res.status(201).json(newBook);
     } catch (error) {
         res.status(500).json({ error: error.message });

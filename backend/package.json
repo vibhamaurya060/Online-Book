@@ -17,15 +17,21 @@
     "debug": "^4.3.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
+    "express-validator": "^7.1.0",
+    "express-winston": "^4.2.0",
     "http-errors": "^2.0.0",
     "jade": "^1.11.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.5.1",
     "morgan": "^1.10.0",
     "mysql2": "^3.10.2",
+    "nodemailer": "^6.9.14",
     "sequelize": "^6.37.3",
+    "socket.io": "^4.7.5",
     "swagger-jsdoc": "^6.2.8",
-    "swagger-ui-express": "^5.0.1"
+    "swagger-ui-express": "^5.0.1",
+    "websocket": "^1.0.35",
+    "winston": "^3.13.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
