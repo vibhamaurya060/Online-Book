@@ -1,5 +1,5 @@
 import express from 'express';
-import { getBooks, getBookById, createBook, updateBook, deleteBook } from '../controllers/bookController.js';
+import { getBooks, getBookById, createBook, updateBook, deleteBook, getBookReviews } from '../controllers/bookController.js';
 import { body, param } from 'express-validator';
 
 const router = express.Router();
@@ -28,5 +28,7 @@ router.put('/books/:bookId', updateBook);
 
 
 router.delete('/books/:bookId', deleteBook);
+
+router.get('/:bookId/reviews', getBookReviews);
 
 export default router;

@@ -1,12 +1,16 @@
 import Book from '../models/nosql/book.js';
+import review from '../models/nosql/review.js';
 import {io} from '../server.js'
 const getBooks = async (req, res) => {
-    try {
-        const books = await Book.find({});
-        res.json(books);
-    } catch (error) {
-        res.status(500).json({ error: error.message });
-    }
+    const { page = 1, limit = 10 } = req.query;
+  try {
+    const books = await Book.find()
+      .skip((page - 1) * limit)
+      .limit(parseInt(limit));
+    res.status(200).json(books);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
 };
 
 const getBookById = async (req, res) => {
@@ -61,4 +65,15 @@ const deleteBook = async (req, res) => {
     }
 };
 
-export { getBooks, getBookById, createBook, updateBook, deleteBook };
+
+const getBookReviews = async (req, res) => {
+    const { bookId } = req.params;
+    try {
+      const reviews = await review.find({ book: bookId }).populate('customer');
+      res.status(200).json(reviews);
+    } catch (error) {
+      res.status(500).json({ error: error.message });
+    }
+  };
+
+export { getBooks, getBookById, createBook, updateBook, deleteBook , getBookReviews};

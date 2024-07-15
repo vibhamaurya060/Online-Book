@@ -2,7 +2,7 @@ import express from 'express';
 import dotenv from 'dotenv';
 import { connectToDb } from './config/db.js';
 import userRouter from './routes/userRoute.js';
-import swaggerUi from 'swagger-ui-express';  // Correct import statement
+import swaggerUi from 'swagger-ui-express';  
 import swaggerSpec from './config/swagger.js';
 import errorHandler from './middlewares/errorHandler.js';
 import connectMongoDB from './config/mongoose.js';
@@ -23,6 +23,10 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+
+// Set up allowed origins
+
 
 app.use(cors({ origin: process.env.FRONTEND_URL, credentials: true }));
 app.use(express.json());

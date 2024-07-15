@@ -1,5 +1,5 @@
 import express from 'express';
-import { getOrdersByCustomer, placeOrder } from '../controllers/orderController.js';
+import { getOrdersByCustomer, placeOrder, updateOrderStatus } from '../controllers/orderController.js';
 
 const router = express.Router();
 
@@ -22,5 +22,6 @@ router.get('/orders/customer/:customerId', getOrdersByCustomer);
 
 router.post('/plsce', placeOrder);
 
+router.patch('/:orderId', updateOrderStatus);
 
 export default router;
