@@ -1,7 +1,8 @@
 import { Router } from 'express';
 import bcrypt from 'bcrypt';
 import jwt from 'jsonwebtoken';
-import { createUser, findUserByEmail } from '../models/userModel.js';
+import { createUser, findUserByEmail } from '../models/sql/userModel.js';
+// import { createUser, findUserByEmail } from '../models/sql/userModel.js';
 
 const userRouter = Router();
 
